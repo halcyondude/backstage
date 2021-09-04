@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.4
+
+### Patch Changes
+
+- 04aad2dab: Fix issue #7021 scaffolder action fetch:template preserves templates file permissions
+
 ## 0.15.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder
 
+## 0.11.3
+
+### Patch Changes
+
+- 3acf5988f: Fix display error when it fails to load a template (/create) page
+
 ## 0.11.2
 
 ### Patch Changes

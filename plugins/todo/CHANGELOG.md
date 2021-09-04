@@ -1,5 +1,11 @@
 # @backstage/plugin-todo
 
+## 0.1.9
+
+### Patch Changes
+
+- a3734ba27: Fix TodoList table column widths
+
 ## 0.1.8
 
 ### Patch Changes
